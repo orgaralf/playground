@@ -4,13 +4,7 @@
 
 This repository is intended as an entry point into an ownCloud deployment with Ansible and will also act as a showcase and documentation for possible deployment strategies.
 
-For more details, please have a look at the [documentation](https://owncloud-ansible.github.io/).
-
-Current required Ansible version is minimum 2.10 or higher.
-
-Install a newer Ansible version like:
-
-`python3 -m venv ~/ansible && source ~/ansible/bin/activate && pip3 install ansible`
+For more details and requirements, please have a look at the [documentation](https://owncloud-ansible.github.io/).
 
 ## License
 
